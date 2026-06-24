@@ -46,4 +46,4 @@ Les principales bibliothèques utilisées dans le notebook `datathon Victor .ipy
 *   *(Note : Le fichier de données source `Fréquentation journalière 2022-2023.xlsx` est référencé dans le code mais n'est pas inclus dans ce dépôt pour des raisons de confidentialité ou de taille).*
 
 ## Auteurs
-*   Projet réaliser en groupe de 5
+*   Projet réalisé en groupe de 5
